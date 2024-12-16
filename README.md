@@ -1,2 +1,1 @@
-# BI-projet
-Projet BI 
+# Bi-projet
